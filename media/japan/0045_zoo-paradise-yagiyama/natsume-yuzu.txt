@@ -1,0 +1,74 @@
+[media]
+_id: media.45.natsume-yuzu
+commitdate: 2019/5/18
+panda.tags: 244, 245
+photo.1: ig://Bt7NjNEFFjb/l
+photo.1.author: minatomirai215
+photo.1.commitdate: 2020/3/5
+photo.1.link: https://www.instagram.com/minatomirai215/
+photo.1.tags: bamboo, paws, siblings, smile, twins
+photo.1.tags.244.location: 750, 325
+photo.1.tags.245.location: 220, 705
+photo.2: ig://Bxe4KHXl6lT/m
+photo.2.author: tama67photo
+photo.2.commitdate: 2019/5/18
+photo.2.link: https://www.instagram.com/tama67photo/
+photo.2.tags: home, siblings, twins
+photo.2.tags.244.location: 110, 110
+photo.2.tags.245.location: 200, 115
+photo.3: ig://Bx2JUeahTZt/m
+photo.3.author: resapanlove
+photo.3.commitdate: 2019/5/30
+photo.3.link: https://www.instagram.com/resapanlove/
+photo.3.tags: fight, mofumofu, siblings, twins
+photo.3.tags.244.location: 105, 55
+photo.3.tags.245.location: 75, 165
+photo.4: ig://ByMIPhmBSva/m
+photo.4.author: kotata_513
+photo.4.commitdate: 2019/6/2
+photo.4.link: https://www.instagram.com/kotata_513/
+photo.4.tags: laying down, siblings, twins, upside-down
+photo.4.tags.244.location: 230, 135
+photo.4.tags.245.location: 120, 150
+photo.5: ig://BzN6Ja8heBa/m
+photo.5.author: kotata_513
+photo.5.commitdate: 2019/7/1
+photo.5.link: https://www.instagram.com/kotata_513/
+photo.5.tags: paw-up, playing, siblings, twins
+photo.5.tags.244.location: 215, 75
+photo.5.tags.245.location: 95, 75
+photo.6: ig://B1Uhuu5Bio_/m
+photo.6.author: ssc6105
+photo.6.commitdate: 2019/8/23
+photo.6.link: https://www.instagram.com/ssc6105/
+photo.6.tags: siblings, twins
+photo.6.tags.244.location: 230, 155
+photo.6.tags.245.location: 145, 125
+photo.7: ig://B4KDOQ-B9rs/m
+photo.7.author: pink.b22
+photo.7.commitdate: 2019/11/19
+photo.7.link: https://www.instagram.com/pink.b22/
+photo.7.tags: bamboo, siblings, smile, twins
+photo.7.tags.244.location: 220, 100
+photo.7.tags.245.location: 105, 145
+photo.8: ig://B6JZ09eBwxF/m
+photo.8.author: hamiiiii831_
+photo.8.commitdate: 2020/2/16
+photo.8.link: https://www.instagram.com/hamiiiii831_/
+photo.8.tags: grooming, siblings, twins
+photo.8.tags.244.location: 190, 90
+photo.8.tags.245.location: 80, 175
+photo.9: ig://B6Krly5hiv0/m
+photo.9.author: hamiiiii831_
+photo.9.commitdate: 2020/2/16
+photo.9.link: https://www.instagram.com/hamiiiii831_/
+photo.9.tags: paws, playing, siblings, twins
+photo.9.tags.244.location: 110, 115
+photo.9.tags.245.location: 220, 160
+photo.10: ig://B-9MG6qBkWO/l
+photo.10.author: ssc6105
+photo.10.commitdate: 2020/5/23
+photo.10.link: https://www.instagram.com/ssc6105/
+photo.10.tags: laying down, siblings, tail, twins
+photo.10.tags.244.location: 770, 200
+photo.10.tags.245.location: 335, 110
